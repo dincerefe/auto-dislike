@@ -8,4 +8,6 @@ Python 3.x.x
 pyautogui
 ```
 #### Installing pyautogui
-`pip install pyautogui`
+```
+pip install pyautogui
+```
